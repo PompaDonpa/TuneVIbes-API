@@ -1,1 +1,1 @@
-# TuneVIbes-API
+# TuneVibes-API
